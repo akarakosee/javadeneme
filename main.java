@@ -2,23 +2,21 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
-    //wqşlkweq
-
+    // 1
     /*
-    wqeweqw
-    qew
-    qew
-    wqe
-    fa
-    s
+    *
+    *
+    *
     */
+
+    // asdas  asd
 
     /**
-wwqeşl        javadoc
-satır
-sayısı
-    */
-
+     * wqe
+     * weq
+     * 
+     */
+    
     Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a number: ");
