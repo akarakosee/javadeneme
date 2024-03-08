@@ -13,6 +13,11 @@ public class HelloWorld {
     s
     */
 
+    /**
+wwqeşl        javadoc
+satır
+sayısı
+    */
 
     Scanner scanner = new Scanner(System.in);
 
